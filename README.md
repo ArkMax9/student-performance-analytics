@@ -87,4 +87,4 @@ is the weakest subject and CSE has the highest department average.
   shorter and easier to read.
 
 ## 11. GitHub Repository
-[PASTE YOUR REPO LINK HERE]
+https://github.com/ArkMax9/student-performance-analytics.git
