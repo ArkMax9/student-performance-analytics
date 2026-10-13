@@ -1,0 +1,19 @@
+Student_ID,Name,Department,Python,SQL,HTML,CSS,JavaScript,Attendance,Total,Average,Grade,Result
+101,Anjali Reddy,CSE,85,78,90,88,82,92,423,84.6,A,Pass
+102,Rahul Sharma,IT,72,80,75,70,78,85,375,75.0,B,Pass
+103,Sneha Patel,CSE,95,92,88,94,96,98,465,93.0,A+,Pass
+104,Arjun Verma,ECE,60,65,58,62,70,75,315,63.0,C,Pass
+105,Priya Nair,IT,88,85,91,89,90,94,443,88.6,A,Pass
+106,Karthik Rao,CSE,45,52,60,48,55,68,260,52.0,D,Fail
+107,Meera Iyer,ECE,78,74,82,80,76,90,390,78.0,B,Pass
+108,Vikram Singh,IT,38,42,50,45,40,60,215,43.0,D,Fail
+109,Divya Menon,CSE,91,89,93,90,94,97,457,91.4,A+,Pass
+110,Rohan Gupta,ECE,66,70,64,68,72,82,340,68.0,C,Pass
+111,Kavya Das,IT,82,79,85,83,80,91,409,81.8,A,Pass
+112,Aditya Joshi,CSE,55,60,52,58,63,78,288,57.6,D,Pass
+113,Neha Kulkarni,ECE,74,71,77,75,79,88,376,75.2,B,Pass
+114,Suresh Babu,IT,35,40,44,38,42,65,199,39.8,F,Fail
+115,Pooja Mishra,CSE,89,94,87,92,90,96,452,90.4,A+,Pass
+116,Manoj Kumar,ECE,62,58,66,64,60,72,310,62.0,C,Fail
+117,Lakshmi Prasad,IT,70,76,73,71,68,86,358,71.6,B,Pass
+118,Harsha Vardhan,CSE,81,77,84,79,85,89,406,81.2,A,Pass

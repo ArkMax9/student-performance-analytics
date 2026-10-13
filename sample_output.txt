@@ -1,0 +1,97 @@
+
+============================================================
+STUDENT DATA (first 5 records)
+============================================================
+ Student_ID         Name Department  Python  SQL  HTML  CSS  JavaScript  Attendance
+        101 Anjali Reddy        CSE      85   78    90   88          82          92
+        102 Rahul Sharma         IT      72   80    75   70          78          85
+        103  Sneha Patel        CSE      95   92    88   94          96          98
+        104  Arjun Verma        ECE      60   65    58   62          70          75
+        105   Priya Nair         IT      88   85    91   89          90          94
+
+Total records : 18
+Columns       : ['Student_ID', 'Name', 'Department', 'Python', 'SQL', 'HTML', 'CSS', 'JavaScript', 'Attendance']
+Missing values: 0
+
+============================================================
+STUDENT PERFORMANCE
+============================================================
+ Student_ID           Name Department  Total  Average Grade Result
+        101   Anjali Reddy        CSE    423     84.6     A   Pass
+        102   Rahul Sharma         IT    375     75.0     B   Pass
+        103    Sneha Patel        CSE    465     93.0    A+   Pass
+        104    Arjun Verma        ECE    315     63.0     C   Pass
+        105     Priya Nair         IT    443     88.6     A   Pass
+        106    Karthik Rao        CSE    260     52.0     D   Fail
+        107     Meera Iyer        ECE    390     78.0     B   Pass
+        108   Vikram Singh         IT    215     43.0     D   Fail
+        109    Divya Menon        CSE    457     91.4    A+   Pass
+        110    Rohan Gupta        ECE    340     68.0     C   Pass
+        111      Kavya Das         IT    409     81.8     A   Pass
+        112   Aditya Joshi        CSE    288     57.6     D   Pass
+        113  Neha Kulkarni        ECE    376     75.2     B   Pass
+        114    Suresh Babu         IT    199     39.8     F   Fail
+        115   Pooja Mishra        CSE    452     90.4    A+   Pass
+        116    Manoj Kumar        ECE    310     62.0     C   Fail
+        117 Lakshmi Prasad         IT    358     71.6     B   Pass
+        118 Harsha Vardhan        CSE    406     81.2     A   Pass
+
+============================================================
+OVERALL ANALYSIS
+============================================================
+Pass rule         : >= 40 in every subject and >= 75% attendance
+Class average     : 72.01
+Highest average   : Sneha Patel (93.0)
+Lowest average    : Suresh Babu (39.8)
+Students passed   : 14
+Students failed   : 4
+Pass percentage   : 77.8%
+
+============================================================
+SUBJECT-WISE ANALYSIS
+============================================================
+   Subject  Average  Highest  Lowest  Scored >= 40       Topper
+    Python    70.33       95      35            16  Sneha Patel
+       SQL    71.22       94      40            18 Pooja Mishra
+      HTML    73.28       93      44            18  Divya Menon
+       CSS    71.89       94      38            17  Sneha Patel
+JavaScript    73.33       96      40            18  Sneha Patel
+
+Best performing subject : JavaScript
+Weakest subject         : Python
+
+============================================================
+GRADE DISTRIBUTION
+============================================================
+Grade
+A     4
+A+    3
+B     4
+C     3
+D     3
+F     1
+
+============================================================
+DEPARTMENT-WISE AVERAGE
+============================================================
+Department
+CSE    78.60
+ECE    69.24
+IT     66.63
+
+============================================================
+TOP 3 PERFORMERS
+============================================================
+1. Sneha Patel - Average 93.0 - Grade A+
+2. Divya Menon - Average 91.4 - Grade A+
+3. Pooja Mishra - Average 90.4 - Grade A+
+
+============================================================
+STUDENTS WHO NEED SUPPORT
+============================================================
+- Karthik Rao: attendance 68%
+- Vikram Singh: below pass mark in Python; attendance 60%
+- Suresh Babu: below pass mark in Python, CSS; attendance 65%
+- Manoj Kumar: attendance 72%
+
+Processed results saved to student_results.csv
